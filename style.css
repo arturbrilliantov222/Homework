@@ -1,0 +1,28 @@
+a{
+	color: midnightblue;
+	font-size: 45px;
+	align: center;
+}
+ h1{
+ 	color: dimgrey;
+ 	border-style: dashed;
+ 	border-style: solid;
+  	border-width: 5px;
+  	border-color: red green blue yellow;
+  	text-align: center;
+  	margin: auto;
+  	width: 8%;
+  	background-color: lightcoral;
+ }
+ h2{
+ 	color: mediumpurple;
+ 	max-width: 1270px;
+ 	text-align: center;
+ 	padding-left: 650px;
+ }
+
+ img{
+ 	height: 1000px;
+ 	width: 50%;
+ 	padding-top: 25px;
+ }
